@@ -1,2 +1,2 @@
 # static-assets
-Static assets hosted by GitHub Pages. Live at [static.pixelclubs.org](https://static.pixelclubs.org).
+Static assets hosted by GitHub Pages. Live at [up.pixelclubs.org](https://up.pixelclubs.org).
